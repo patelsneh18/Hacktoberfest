@@ -3,7 +3,7 @@
 int main()
 {
     int n;
-    printf("Enter the number: ");
+    printf("Enter the number: "); // t-shirts
     scanf("%d",&n);
     switch (n%2) //condition for checking even aur odd
     {
