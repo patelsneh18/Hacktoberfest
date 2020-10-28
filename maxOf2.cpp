@@ -7,7 +7,7 @@ int main()
     printf("Enter Two Numbers :");
     scanf("%d",num1);
     scanf("%d",num2);
-    switch (num1>num2)
+    switch (num1>num2) //for comparison of numbers
     {
     case 0:
         printf("Number 1 is smaller");
