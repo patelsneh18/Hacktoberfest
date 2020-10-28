@@ -5,7 +5,7 @@ int main()
     int n;
     printf("Enter month number\n"); //MONTH
     scanf("%d",&n);
-    switch (n)
+    switch (n)                  //Switch statement
     {
     case 1:
         printf("31");
