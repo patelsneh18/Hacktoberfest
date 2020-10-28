@@ -8,7 +8,7 @@ int main()
     switch (n%2)   //checking n is even or not
     {
     case 0:
-        printf("even number");
+        printf("even number");   //switch fuunction
         break;
 
     default:
