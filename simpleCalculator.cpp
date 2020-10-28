@@ -10,7 +10,7 @@ int main()
     scanf("%d%d",&num1,&num2);
    
     
-    int sol;
+    int sol;    //simple calculator using switch
     switch (operation)
     {
     case '*':
