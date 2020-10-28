@@ -7,7 +7,7 @@ int main()
     scanf("%c",&operation);
     printf("Enter two numbers to perform operation on: ");
     int num1,num2;
-    scanf("%d%d",&num1,&num2);
+    scanf("%d %d",&num1,&num2);
    
     
     int sol;
@@ -35,7 +35,7 @@ int main()
 
 
     default:
-    printf("Invalid Input");
+    printf("Invalid Input/n");
         break;
     }
 }
