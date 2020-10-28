@@ -5,7 +5,7 @@ int main()
     int n;
     printf("Enter the number: ");
     scanf("%d",&n);
-    switch (n%2) //condition for checking even aur odd
+    switch (n%2)   //checking n is even or not
     {
     case 0:
         printf("even number");
