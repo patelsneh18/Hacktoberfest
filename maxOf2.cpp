@@ -10,7 +10,7 @@ int main()
     switch (num1>num2) //for comparison of numbers
     {
     case 0:
-        printf("Number 1 is smaller");
+        printf("Number 1 is smaller"); //displayed line
         break;
     
     case 1:
